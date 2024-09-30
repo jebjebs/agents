@@ -1,5 +1,11 @@
 # livekit-plugins-deepgram
 
+## 0.6.8
+
+### Patch Changes
+
+- accepts parameter profanity_filter - [`00180cd1902de603f7875d98c777baad2b1b32e6`](https://github.com/livekit/agents/commit/00180cd1902de603f7875d98c777baad2b1b32e6)
+
 ## 0.6.7
 
 ### Patch Changes
